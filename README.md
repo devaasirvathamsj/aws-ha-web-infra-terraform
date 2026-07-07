@@ -174,3 +174,14 @@ terraform destroy
 ##  License
 
 This project is for learning/demo purposes. Feel free to fork and adapt it for your own use case.
+
+---
+
+## Author
+
+Deva Asirvatham SJ
+- GitHub: [devaasirvathamsj](https://github.com/devaasirvathamsj)
+- Email: devaasirvathamsj@gmail.com
+
+
+
